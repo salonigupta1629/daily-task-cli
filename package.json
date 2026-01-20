@@ -1,0 +1,29 @@
+{
+  "name": "daily-task-cli",
+  "version": "1.0.0",
+  "description": "A command-line task manager for daily productivity",
+  "main": "src/cli.js",
+  "bin": {
+    "task": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "cli",
+    "todo",
+    "task-manager",
+    "productivity",
+    "terminal"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
