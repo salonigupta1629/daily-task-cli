@@ -52,6 +52,13 @@ A feature-rich CLI task manager built with Node.js using only standard libraries
 - **Task existence checks** before operations
 - **User-friendly error messages** with suggestions
 
+## Video Demo
+[YouTube: Daily Task CLI Demo](https://youtu.be/Axm9hurzbdQ)
+
+3-minute demonstration showing:
+1. Problem statement
+2. Live feature walkthrough  
+3. Code structure and design decisions
 
 ##  Quick Start
 

@@ -38,5 +38,29 @@
     "status": "pending",
     "createdAt": "2026-01-20T17:44:45.966Z",
     "completedAt": null
+  },
+  {
+    "id": 1768968043416,
+    "description": "Complete today homework",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-01-21T04:00:43.416Z",
+    "completedAt": null
+  },
+  {
+    "id": 1768968067030,
+    "description": "Practice react",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2026-01-21T04:01:07.030Z",
+    "completedAt": null
+  },
+  {
+    "id": 1768968086164,
+    "description": "Learn Laravel",
+    "priority": "low",
+    "status": "pending",
+    "createdAt": "2026-01-21T04:01:26.164Z",
+    "completedAt": null
   }
 ]
